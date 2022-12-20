@@ -13,8 +13,16 @@
 
 👋 Welcome to my Github profile! I am currently a `first-year` student studying `Computer Science and Business Administration` at the University of Waterloo. You can check out my personal website <a href="https://christinaly19.github.io/Personal_Website_/"><u><b>here!</b></u></a><br><br>
   
-<h2> About Me:
+  <h2> About Me: </h2>
+  <p>
 - 💻 I have been learning front-end development for the last year
+    <br>
 - 🌱 I am currently learning React and Tailwind 
-- 🖊️ I (sometimes) write! See my published works here 
+        <br>
+- 🖊️ I (sometimes) write short stories! See my published works here 
+        <br>
 - 🎵 I am a Taylor Swift enthusiast! 
+        <br>
+      </p>
+
+  
