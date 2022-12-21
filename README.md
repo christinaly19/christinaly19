@@ -23,7 +23,7 @@ Please feel free to check out any of my projects; I'm also always open to feedba
         <br>
 - 🎵 I am a Taylor Swift enthusiast! 
         <br>
-- 🖊️ Fun fact: I (sometimes) write short stories! You can read latest published story <a href "https://www.asterlit.org/spring2021/christina-li"><u><b> here </b></u></a>
+- 🖊️ Fun fact: I (sometimes) write short stories! You can read latest published story <a href="https://www.asterlit.org/spring2021/christina-li"><u><b> here </b></u></a>
       </p>
 
   <h2> My Toolkit: </h2>
