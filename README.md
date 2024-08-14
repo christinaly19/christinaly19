@@ -32,9 +32,6 @@ Please feel free to check out any of my projects; I'm also always open to feedba
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"></a>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"></a>
-
-  <h2> Other Places to Find Me: </h2>
-  <a href="https://www.linkedin.com/in/christina-li-11b880217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   
   <h2> Contact Me: </h2>
  <img src ="https://img.shields.io/badge/Email-christinayxli%40gmail.com-blue"></a>
