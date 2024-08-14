@@ -11,7 +11,7 @@
 
 <div align="left">
 
-👋 Welcome to my Github profile! I am currently a `first-year` student studying `Computer Science and Business Administration` at the University of Waterloo. You can check out my personal website <a href="https://christinaly19.github.io/Personal_Website_/"><u><b>here!</b></u></a><br><br>
+👋 Welcome to my Github profile! I am currently a `3A` student studying `Computer Science and Business Administration` at the University of Waterloo. You can check out my personal website <a href="https://christinaly19.github.io/Personal_Website_/"><u><b>here!</b></u></a><br><br>
 Please feel free to check out any of my projects; I'm also always open to feedback and suggestions! 
   <h2> About Me: </h2>
   <p>
